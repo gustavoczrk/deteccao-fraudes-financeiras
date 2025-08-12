@@ -83,4 +83,4 @@ A análise de importância de features mostrou que `oldbalanceOrg`, `amount` e `
 
 **Autor:** Gustavo Czarneski    
 
-[LinkedIn] https://www.linkedin.com/in/gustavo-czarneski-245081318/ | [GitHub] github.com/gustavoczrk
+[LinkedIn] https://www.linkedin.com/in/gustavo-czarneski-245081318/ | [GitHub] https://github.com/gustavoczrk
